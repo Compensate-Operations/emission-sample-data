@@ -1,0 +1,11 @@
+{
+  "name": "Emission sample data",
+  "generated": "06/07/2020 @ 10:57pm (UTC)",
+  "versions": [
+    {
+      "src": "datasets/textile-v1.0.0",
+      "version": "1.0.0",
+      "description": "Textile data"
+    }
+  ]
+}
