@@ -44,3 +44,12 @@ Clothing data contains following keys (version 1.x.x)
 | Girls | G
 | Boys | B
 | Baby | Y
+
+### Season mappings
+
+| Gender | Code
+| --- | --- |
+|  All-year round | AYR
+| winter | WIN"
+| midterm | MID"
+| summer | SUM"
