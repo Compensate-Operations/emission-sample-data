@@ -27,8 +27,8 @@ Clothing data contains following keys (version 1.x.x)
 | ftp_other | Fibre type percentage of other materials
 | gender | Gender code, see gender mappings below
 | label | Product label if we have one
-| made_in | Made in country.
-| season | Season code, see season mappigs below
+| made_in | Made in country, see ISO 3166-1 alpha-2 (e.g. "FI", "GR")
+| season | Season code, see season mappigs below (e.g. "MID", "SUM")
 | size | Product size (e.g. "XS", "S", "M", "L", "XL" etc)
 | unspsc_code | Product or service UNSPSC code, if known
 | weight | Products weight in kilograms
