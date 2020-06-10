@@ -7,7 +7,7 @@ Clothing data contains following keys (version 1.x.x)
 
 | Field | Description
 | --- | --- |
-| brand | Brand id
+| brand | Brand id hash (e.g. "b25", "b124")
 | category-1 | Product level 1 category (e.g. "clothing", "womenswear", "menswear", "kidswear" or "home")
 | category-2 | Product level 2 category (e.g. "outerwear", "thermals", "swimwear")
 | category-3 | Product level 3 category (e.g. "knitwear", "coats", "jacket", "skirts", "trousers")
